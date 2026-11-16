@@ -1,0 +1,277 @@
+=== PRIMER ARRANQUE: registre los datos del taller ===
+Nombre del taller: Autoservicio El Lago
+RIF: J-30123456-7
+Dirección: Av. 5 de Julio, Maracaibo
+Teléfono: 0261-7654321
+Taller registrado: Autoservicio El Lago
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): AB123CD
+Marca: Toyota
+Modelo: Corolla
+Año (1950-2027): 2015
+Kilometraje: 45000
+Nombre del propietario: María González
+Cédula del propietario (ej: V-12345678): V-11223344
+Teléfono del propietario: 0414-0000000
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: AB123CD - Toyota Corolla (ID 1).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): XY987ZW
+Marca: Chevrolet
+Modelo: Aveo
+Año (1950-2027): 2009
+Kilometraje: 128300
+Nombre del propietario: María González
+Cédula del propietario (ej: V-12345678): V-11223344
+Teléfono del propietario: 0414-0000000
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: XY987ZW - Chevrolet Aveo (ID 2).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): JK456LM
+Marca: Ford
+Modelo: Fiesta
+Año (1950-2027): 2012
+Kilometraje: 90000
+Nombre del propietario: Pedro Ramírez
+Cédula del propietario (ej: V-12345678): V-11223344
+Teléfono del propietario: 0414-0000000
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: JK456LM - Ford Fiesta (ID 3).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): MN789PQ
+Marca: Honda
+Modelo: Civic
+Año (1950-2027): 2018
+Kilometraje: 60000
+Nombre del propietario: Luisa Fernández
+Cédula del propietario (ej: V-12345678): V-11223344
+Teléfono del propietario: 0414-0000000
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: MN789PQ - Honda Civic (ID 4).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): RT321UV
+Marca: Hyundai
+Modelo: Accent
+Año (1950-2027): 2010
+Kilometraje: 150000
+Nombre del propietario: Carlos Mendoza
+Cédula del propietario (ej: V-12345678): V-11223344
+Teléfono del propietario: 0414-0000000
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: RT321UV - Hyundai Accent (ID 5).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): GH654IJ
+Marca: Kia
+Modelo: Rio
+Año (1950-2027): 2016
+Kilometraje: 30000
+Nombre del propietario: Ana Torres
+Cédula del propietario (ej: V-12345678): V-11223344
+Teléfono del propietario: 0414-0000000
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: GH654IJ - Kia Rio (ID 6).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- ELIMINAR VEHÍCULO ---
+ID del vehículo: 3
+  Vehículo    : JK456LM - Ford Fiesta 2012
+  Kilometraje : 90000 km
+  Propietario : Pedro Ramírez (V-11223344)
+  Teléfono    : 0414-0000000
+¿Eliminar este vehículo? (S/N): S
+Vehículo JK456LM eliminado (borrado lógico).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+Buscar por: 1. ID   2. Placa exacta   3. Propietario (parcial)
+Opción: 1
+ID del vehículo: 5
+
+Vehículo encontrado:
+  Vehículo    : RT321UV - Hyundai Accent 2010
+  Kilometraje : 150000 km
+  Propietario : Carlos Mendoza (V-11223344)
+  Teléfono    : 0414-0000000
+[DEBUG] Registro ID 5 leído directamente en el byte 1168 (= 16 + 4 * 288), sin recorrer el archivo.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+Buscar por: 1. ID   2. Placa exacta   3. Propietario (parcial)
+Opción: 1
+ID del vehículo: 3
+ERROR: El vehículo 'JK456LM' (ID 3) fue eliminado.
+[DEBUG] Registro ID 3 leído directamente en el byte 592 (= 16 + 2 * 288), sin recorrer el archivo.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 5
+
+╔══════╦═══════════╦══════════════════════════╦═══════╦══════════╦══════════════════════════╗
+║ ID   ║ Placa     ║ Vehículo                 ║ Año   ║ Km       ║ Propietario              ║
+╠══════╬═══════════╬══════════════════════════╬═══════╬══════════╬══════════════════════════╣
+║    1 ║ AB123CD   ║ Toyota Corolla           ║  2015 ║    45000 ║ María González           ║
+║    2 ║ XY987ZW   ║ Chevrolet Aveo           ║  2009 ║   128300 ║ María González           ║
+║    4 ║ MN789PQ   ║ Honda Civic              ║  2018 ║    60000 ║ Luisa Fernández          ║
+║    5 ║ RT321UV   ║ Hyundai Accent           ║  2010 ║   150000 ║ Carlos Mendoza           ║
+║    6 ║ GH654IJ   ║ Kia Rio                  ║  2016 ║    30000 ║ Ana Torres               ║
+╚══════╩═══════════╩══════════════════════════╩═══════╩══════════╩══════════════════════════╝
+Total de vehículos: 5
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

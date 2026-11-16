@@ -1,0 +1,176 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 6
+
+╔════════════════════════════════════════════╗
+║               MANTENIMIENTO                ║
+╠════════════════════════════════════════════╣
+║   1. Verificar integridad                  ║
+║   2. Crear respaldo (backup)               ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- VERIFICACIÓN DE INTEGRIDAD ---
+
+╔════════════════════════════════════════════╗
+║     REPORTE DE INTEGRIDAD DEL SISTEMA      ║
+╠════════════════════════════════════════════╣
+║ Vehículos verificados : 8                  ║
+║ Mecánicos verificados : 4                  ║
+║ Repuestos verificados : 12                 ║
+║ Órdenes verificadas   : 10                 ║
+║                                            ║
+║ Problemas encontrados : 0                  ║
+║ Estado: SISTEMA ÍNTEGRO                    ║
+╚════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════╗
+║               MANTENIMIENTO                ║
+╠════════════════════════════════════════════╣
+║   1. Verificar integridad                  ║
+║   2. Crear respaldo (backup)               ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- RESPALDO (BACKUP) ---
+Respaldo creado correctamente en la carpeta: backup_2026-11-09_23-04-06
+
+╔════════════════════════════════════════════╗
+║               MANTENIMIENTO                ║
+╠════════════════════════════════════════════╣
+║   1. Verificar integridad                  ║
+║   2. Crear respaldo (backup)               ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): ZZ999AA
+Marca: Renault
+Modelo: Logan
+Año (1950-2027): 2019
+Kilometraje: 5000
+Nombre del propietario: Rosa Medina
+Cédula del propietario (ej: V-12345678): V-19887766
+Teléfono del propietario: 0414-2223344
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: ZZ999AA - Renault Logan (ID 9).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 9
+Vehículo: ZZ999AA - Renault Logan (5000 km), propietario Rosa Medina
+ID del mecánico: 1
+Mecánico: José Pérez (FRENOS)
+Kilometraje de ingreso: 5000
+Descripción de la falla: Cambio de aceite
+¿Abrir la orden? (S/N): S
+Orden #11 abierta para el vehículo ZZ999AA con el mecánico José Pérez.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

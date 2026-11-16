@@ -1,0 +1,157 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 5
+
+╔══════╦═══════════╦══════════════════════════╦═══════╦══════════╦══════════════════════════╗
+║ ID   ║ Placa     ║ Vehículo                 ║ Año   ║ Km       ║ Propietario              ║
+╠══════╬═══════════╬══════════════════════════╬═══════╬══════════╬══════════════════════════╣
+║    1 ║ AB123CD   ║ Toyota Corolla           ║  2015 ║    45000 ║ María González           ║
+║    2 ║ XY987ZW   ║ Chevrolet Aveo           ║  2009 ║   128300 ║ María González           ║
+║    3 ║ JK456LM   ║ Ford Fiesta              ║  2012 ║    90000 ║ Pedro Ramírez            ║
+╚══════╩═══════════╩══════════════════════════╩═══════╩══════════╩══════════════════════════╝
+Total de vehículos: 3
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔══════╦══════════════════════════╦══════════════╦═══════════════╦════════════╦══════════╦══════════╗
+║ ID   ║ Nombre                   ║ Cédula       ║ Especialidad  ║ Ingreso    ║ Abiertas ║ Estado   ║
+╠══════╬══════════════════════════╬══════════════╬═══════════════╬════════════╬══════════╬══════════╣
+║    1 ║ José Pérez               ║ V-14111222   ║ FRENOS        ║ 2019-02-11 ║        0 ║ Activo   ║
+║    2 ║ Ana Villalobos           ║ V-16333444   ║ MOTOR         ║ 2020-06-01 ║        0 ║ Activo   ║
+╚══════╩══════════════════════════╩══════════════╩═══════════════╩════════════╩══════════╩══════════╝
+Total de mecánicos: 2
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔══════╦════════════╦════════════════════════════╦════════════════╦═══════════╦════════╦═══════╦════════════╗
+║ ID   ║ Código     ║ Nombre                     ║ Marca          ║ Precio    ║ Stock  ║ Mín   ║ Alerta     ║
+╠══════╬════════════╬════════════════════════════╬════════════════╬═══════════╬════════╬═══════╬════════════╣
+║    1 ║ FRN-001    ║ Pastillas delanteras       ║ Bosch          ║     25.00 ║     40 ║     5 ║            ║
+║    2 ║ FRN-014    ║ Líquido de frenos DOT4     ║ Castrol        ║     12.50 ║     40 ║     5 ║            ║
+║    3 ║ MOT-100    ║ Filtro de aceite           ║ Fram           ║      8.75 ║     40 ║     5 ║            ║
+║    4 ║ MOT-101    ║ Aceite 10W40 (litro)       ║ Mobil          ║      6.40 ║     60 ║    10 ║            ║
+╚══════╩════════════╩════════════════════════════╩════════════════╩═══════════╩════════╩═══════╩════════════╝
+Total de repuestos: 4
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

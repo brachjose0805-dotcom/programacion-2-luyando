@@ -1,0 +1,800 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-001
+Nombre: Repuesto extra 1
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-001 - Repuesto extra 1 (ID 13).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-002
+Nombre: Repuesto extra 2
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-002 - Repuesto extra 2 (ID 14).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-003
+Nombre: Repuesto extra 3
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-003 - Repuesto extra 3 (ID 15).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-004
+Nombre: Repuesto extra 4
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-004 - Repuesto extra 4 (ID 16).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-005
+Nombre: Repuesto extra 5
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-005 - Repuesto extra 5 (ID 17).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-006
+Nombre: Repuesto extra 6
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-006 - Repuesto extra 6 (ID 18).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-007
+Nombre: Repuesto extra 7
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-007 - Repuesto extra 7 (ID 19).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-008
+Nombre: Repuesto extra 8
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-008 - Repuesto extra 8 (ID 20).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: EXT-009
+Nombre: Repuesto extra 9
+Marca: Generica
+Precio unitario: 5.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: EXT-009 - Repuesto extra 9 (ID 21).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 5
+Vehículo: RT321UV - Hyundai Accent (150000 km), propietario Carlos Mendoza
+ID del mecánico: 1
+Mecánico: José Pérez (FRENOS)
+Kilometraje de ingreso: 151000
+Descripción de la falla: Prueba del limite de lineas
+¿Abrir la orden? (S/N): S
+Orden #11 abierta para el vehículo RT321UV con el mecánico José Pérez.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 1
+Repuesto: FRN-001 - Pastillas delanteras (stock 36, precio 25)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Pastillas delanteras' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 2
+Repuesto: FRN-014 - Líquido de frenos DOT4 (stock 39, precio 12.5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Líquido de frenos DOT4' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 3
+Repuesto: MOT-100 - Filtro de aceite (stock 36, precio 8.75)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aceite' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 4
+Repuesto: MOT-101 - Aceite 10W40 (litro) (stock 49, precio 6.4)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Aceite 10W40 (litro)' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 5
+Repuesto: MOT-120 - Bujías (juego) (stock 29, precio 18)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Bujías (juego)' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 6
+Repuesto: ELE-010 - Batería 12V (stock 15, precio 85)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Batería 12V' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 7
+Repuesto: ELE-025 - Alternador (stock 10, precio 120)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Alternador' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 8
+Repuesto: SUS-200 - Amortiguador delantero (stock 17, precio 45)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Amortiguador delantero' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 9
+Repuesto: SUS-210 - Rótula de dirección (stock 20, precio 22.3)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Rótula de dirección' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 10
+Repuesto: GEN-300 - Correa de distribución (stock 24, precio 32)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Correa de distribución' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 11
+Repuesto: GEN-310 - Filtro de aire (stock 37, precio 9.9)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aire' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 12
+Repuesto: FRN-020 - Disco de freno (stock 4, precio 55)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Disco de freno' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 13
+Repuesto: EXT-001 - Repuesto extra 1 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 1' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 14
+Repuesto: EXT-002 - Repuesto extra 2 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 2' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 15
+Repuesto: EXT-003 - Repuesto extra 3 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 3' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 16
+Repuesto: EXT-004 - Repuesto extra 4 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 4' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 17
+Repuesto: EXT-005 - Repuesto extra 5 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 5' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 18
+Repuesto: EXT-006 - Repuesto extra 6 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 6' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 19
+Repuesto: EXT-007 - Repuesto extra 7 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 7' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 20
+Repuesto: EXT-008 - Repuesto extra 8 (stock 10, precio 5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Repuesto extra 8' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 21
+Repuesto: EXT-009 - Repuesto extra 9 (stock 10, precio 5)
+Cantidad: 1
+ERROR: La orden #11 ya tiene el máximo de 20 líneas de detalle. El repuesto no se agregó.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 6
+
+--- DETALLE DE ORDEN ---
+ID de la orden: 11
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                        ORDEN DE SERVICIO #11                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : RT321UV - Hyundai Accent 2010 (151000 km)                ║
+║ Dueño     : Carlos Mendoza                                           ║
+║ Mecánico  : José Pérez (FRENOS)                                      ║
+║ Falla     : Prueba del limite de lineas                              ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ FRN-001   ║ Pastillas delanteras         ║    1 ║     25.00 ║      25.00 ║
+║ FRN-014   ║ Líquido de frenos DOT4       ║    1 ║     12.50 ║      12.50 ║
+║ MOT-100   ║ Filtro de aceite             ║    1 ║      8.75 ║       8.75 ║
+║ MOT-101   ║ Aceite 10W40 (litro)         ║    1 ║      6.40 ║       6.40 ║
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+║ ELE-010   ║ Batería 12V                  ║    1 ║     85.00 ║      85.00 ║
+║ ELE-025   ║ Alternador                   ║    1 ║    120.00 ║     120.00 ║
+║ SUS-200   ║ Amortiguador delantero       ║    1 ║     45.00 ║      45.00 ║
+║ SUS-210   ║ Rótula de dirección          ║    1 ║     22.30 ║      22.30 ║
+║ GEN-300   ║ Correa de distribución       ║    1 ║     32.00 ║      32.00 ║
+║ GEN-310   ║ Filtro de aire               ║    1 ║      9.90 ║       9.90 ║
+║ FRN-020   ║ Disco de freno               ║    1 ║     55.00 ║      55.00 ║
+║ EXT-001   ║ Repuesto extra 1             ║    1 ║      5.00 ║       5.00 ║
+║ EXT-002   ║ Repuesto extra 2             ║    1 ║      5.00 ║       5.00 ║
+║ EXT-003   ║ Repuesto extra 3             ║    1 ║      5.00 ║       5.00 ║
+║ EXT-004   ║ Repuesto extra 4             ║    1 ║      5.00 ║       5.00 ║
+║ EXT-005   ║ Repuesto extra 5             ║    1 ║      5.00 ║       5.00 ║
+║ EXT-006   ║ Repuesto extra 6             ║    1 ║      5.00 ║       5.00 ║
+║ EXT-007   ║ Repuesto extra 7             ║    1 ║      5.00 ║       5.00 ║
+║ EXT-008   ║ Repuesto extra 8             ║    1 ║      5.00 ║       5.00 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       479.85        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:       479.85        ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

@@ -1,0 +1,539 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): AB123CD
+Marca: Toyota
+Modelo: Yaris
+Año (1950-2027): 2020
+Kilometraje: 1000
+Nombre del propietario: Otro Dueño
+Cédula del propietario (ej: V-12345678): V-1111111
+Teléfono del propietario: 0414-1111111
+¿Guardar este vehículo? (S/N): S
+ERROR: La placa 'AB123CD' ya está registrada.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 2
+Vehículo: XY987ZW - Chevrolet Aveo (130000 km), propietario María González
+ID del mecánico: 1
+Mecánico: José Pérez (FRENOS)
+Kilometraje de ingreso: 131000
+Descripción de la falla: Otra falla
+¿Abrir la orden? (S/N): S
+ERROR: El vehículo 'XY987ZW' ya tiene la orden #8 ABIERTA.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 3
+Vehículo: JK456LM - Ford Fiesta (90000 km), propietario Pedro Ramírez
+ID del mecánico: 4
+Mecánico: Carlos Rojas (ELECTRICIDAD)
+Kilometraje de ingreso: 90000
+Descripción de la falla: Cambio de correa
+¿Abrir la orden? (S/N): S
+Orden #11 abierta para el vehículo JK456LM con el mecánico Carlos Rojas.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 4
+Vehículo: MN789PQ - Honda Civic (60000 km), propietario Luisa Fernández
+ID del mecánico: 4
+Mecánico: Carlos Rojas (ELECTRICIDAD)
+Kilometraje de ingreso: 60000
+Descripción de la falla: Ruido en la suspension
+¿Abrir la orden? (S/N): S
+ERROR: El mecánico 'Carlos Rojas' ya tiene 3 órdenes abiertas.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 4
+Vehículo: MN789PQ - Honda Civic (60000 km), propietario Luisa Fernández
+ID del mecánico: 1
+Mecánico: José Pérez (FRENOS)
+Kilometraje de ingreso: 100
+Descripción de la falla: Kilometraje menor
+¿Abrir la orden? (S/N): S
+ERROR: El kilometraje 100 es menor al último registrado del vehículo 'MN789PQ' (60000 km).
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 12
+Repuesto: FRN-020 - Disco de freno (stock 4, precio 55)
+Cantidad: 10
+ERROR: Stock insuficiente de 'Disco de freno'. Disponible: 4, solicitado: 10.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 1
+ID del repuesto: 1
+Repuesto: FRN-001 - Pastillas delanteras (stock 36, precio 25)
+Cantidad: 1
+ERROR: La orden #1 está CERRADA y no admite esta operación.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- ELIMINAR VEHÍCULO ---
+ID del vehículo: 1
+  Vehículo    : AB123CD - Toyota Corolla 2015
+  Kilometraje : 46500 km
+  Propietario : María González (V-12345678)
+  Teléfono    : 0414-1234567
+¿Eliminar este vehículo? (S/N): S
+ERROR: El vehículo 'AB123CD' tiene 2 órdenes registradas y no puede eliminarse.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 6
+
+--- ELIMINAR REPUESTO ---
+ID del repuesto: 1
+  Repuesto    : FRN-001 - Pastillas delanteras (Bosch)
+  Precio      : 25
+  Stock       : 36 (mínimo 5)
+¿Eliminar este repuesto? (S/N): S
+ERROR: El repuesto 'Pastillas delanteras' aparece en el detalle de la orden #1 y no puede eliminarse.
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): QW123ER
+Marca: Kia
+Modelo: Picanto
+Año (1950-2027): 2018
+Kilometraje: CANCELAR
+Registro cancelado. No se creó ningún vehículo.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 5
+
+╔══════╦═══════════╦══════════════════════════╦═══════╦══════════╦══════════════════════════╗
+║ ID   ║ Placa     ║ Vehículo                 ║ Año   ║ Km       ║ Propietario              ║
+╠══════╬═══════════╬══════════════════════════╬═══════╬══════════╬══════════════════════════╣
+║    1 ║ AB123CD   ║ Toyota Corolla           ║  2015 ║    46500 ║ María González           ║
+║    2 ║ XY987ZW   ║ Chevrolet Aveo           ║  2009 ║   130000 ║ María González           ║
+║    3 ║ JK456LM   ║ Ford Fiesta              ║  2012 ║    90000 ║ Pedro Ramírez            ║
+║    4 ║ MN789PQ   ║ Honda Civic              ║  2018 ║    60000 ║ Luisa Fernández          ║
+║    5 ║ RT321UV   ║ Hyundai Accent           ║  2010 ║   150000 ║ Carlos Mendoza           ║
+║    6 ║ GH654IJ   ║ Kia Rio                  ║  2016 ║    30000 ║ Ana Torres               ║
+║    7 ║ CD147EF   ║ Mazda 3                  ║  2020 ║    75000 ║ José Silva               ║
+║    8 ║ PL258QR   ║ Nissan Sentra            ║  2014 ║    12000 ║ Marta Díaz               ║
+╚══════╩═══════════╩══════════════════════════╩═══════╩══════════╩══════════════════════════╝
+Total de vehículos: 8
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

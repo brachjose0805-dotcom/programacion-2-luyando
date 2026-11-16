@@ -1,0 +1,1848 @@
+=== PRIMER ARRANQUE: registre los datos del taller ===
+Nombre del taller: Autoservicio El Lago
+RIF: J-30123456-7
+Dirección: Av. 5 de Julio, Maracaibo
+Teléfono: 0261-7654321
+Taller registrado: Autoservicio El Lago
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): AB123CD
+Marca: Toyota
+Modelo: Corolla
+Año (1950-2027): 2015
+Kilometraje: 45000
+Nombre del propietario: María González
+Cédula del propietario (ej: V-12345678): V-12345678
+Teléfono del propietario: 0414-1234567
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: AB123CD - Toyota Corolla (ID 1).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): XY987ZW
+Marca: Chevrolet
+Modelo: Aveo
+Año (1950-2027): 2009
+Kilometraje: 128300
+Nombre del propietario: María González
+Cédula del propietario (ej: V-12345678): V-12345678
+Teléfono del propietario: 0414-1234567
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: XY987ZW - Chevrolet Aveo (ID 2).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): JK456LM
+Marca: Ford
+Modelo: Fiesta
+Año (1950-2027): 2012
+Kilometraje: 90000
+Nombre del propietario: Pedro Ramírez
+Cédula del propietario (ej: V-12345678): V-9876543
+Teléfono del propietario: 0412-5551234
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: JK456LM - Ford Fiesta (ID 3).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): MN789PQ
+Marca: Honda
+Modelo: Civic
+Año (1950-2027): 2018
+Kilometraje: 60000
+Nombre del propietario: Luisa Fernández
+Cédula del propietario (ej: V-12345678): V-15432198
+Teléfono del propietario: 0424-3332211
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: MN789PQ - Honda Civic (ID 4).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): RT321UV
+Marca: Hyundai
+Modelo: Accent
+Año (1950-2027): 2010
+Kilometraje: 150000
+Nombre del propietario: Carlos Mendoza
+Cédula del propietario (ej: V-12345678): V-11223344
+Teléfono del propietario: 0416-7778899
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: RT321UV - Hyundai Accent (ID 5).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): GH654IJ
+Marca: Kia
+Modelo: Rio
+Año (1950-2027): 2016
+Kilometraje: 30000
+Nombre del propietario: Ana Torres
+Cédula del propietario (ej: V-12345678): V-20334455
+Teléfono del propietario: 0414-9990011
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: GH654IJ - Kia Rio (ID 6).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): CD147EF
+Marca: Mazda
+Modelo: 3
+Año (1950-2027): 2020
+Kilometraje: 75000
+Nombre del propietario: José Silva
+Cédula del propietario (ej: V-12345678): V-17665544
+Teléfono del propietario: 0412-1112233
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: CD147EF - Mazda 3 (ID 7).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): PL258QR
+Marca: Nissan
+Modelo: Sentra
+Año (1950-2027): 2014
+Kilometraje: 12000
+Nombre del propietario: Marta Díaz
+Cédula del propietario (ej: V-12345678): V-13998877
+Teléfono del propietario: 0426-4445566
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: PL258QR - Nissan Sentra (ID 8).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR MECÁNICO (escriba CANCELAR para cancelar) ---
+Nombre completo: José Pérez
+Cédula (ej: V-12345678): V-14111222
+Especialidades: 1=MOTOR  2=FRENOS  3=ELECTRICIDAD  4=SUSPENSION  5=GENERAL  
+Especialidad (1-5): 2
+Fecha de ingreso (AAAA-MM-DD): 2019-02-11
+¿Guardar este mecánico? (S/N): S
+Mecánico registrado: José Pérez (FRENOS), ID 1.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR MECÁNICO (escriba CANCELAR para cancelar) ---
+Nombre completo: Ana Villalobos
+Cédula (ej: V-12345678): V-16333444
+Especialidades: 1=MOTOR  2=FRENOS  3=ELECTRICIDAD  4=SUSPENSION  5=GENERAL  
+Especialidad (1-5): 1
+Fecha de ingreso (AAAA-MM-DD): 2020-06-01
+¿Guardar este mecánico? (S/N): S
+Mecánico registrado: Ana Villalobos (MOTOR), ID 2.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR MECÁNICO (escriba CANCELAR para cancelar) ---
+Nombre completo: Luis Fuenmayor
+Cédula (ej: V-12345678): V-12555666
+Especialidades: 1=MOTOR  2=FRENOS  3=ELECTRICIDAD  4=SUSPENSION  5=GENERAL  
+Especialidad (1-5): 4
+Fecha de ingreso (AAAA-MM-DD): 2018-09-20
+¿Guardar este mecánico? (S/N): S
+Mecánico registrado: Luis Fuenmayor (SUSPENSION), ID 3.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR MECÁNICO (escriba CANCELAR para cancelar) ---
+Nombre completo: Carlos Rojas
+Cédula (ej: V-12345678): V-18777888
+Especialidades: 1=MOTOR  2=FRENOS  3=ELECTRICIDAD  4=SUSPENSION  5=GENERAL  
+Especialidad (1-5): 3
+Fecha de ingreso (AAAA-MM-DD): 2021-01-15
+¿Guardar este mecánico? (S/N): S
+Mecánico registrado: Carlos Rojas (ELECTRICIDAD), ID 4.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: FRN-001
+Nombre: Pastillas delanteras
+Marca: Bosch
+Precio unitario: 25.00
+Stock inicial: 40
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: FRN-001 - Pastillas delanteras (ID 1).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: FRN-014
+Nombre: Líquido de frenos DOT4
+Marca: Castrol
+Precio unitario: 12.50
+Stock inicial: 40
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: FRN-014 - Líquido de frenos DOT4 (ID 2).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: MOT-100
+Nombre: Filtro de aceite
+Marca: Fram
+Precio unitario: 8.75
+Stock inicial: 40
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: MOT-100 - Filtro de aceite (ID 3).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: MOT-101
+Nombre: Aceite 10W40 (litro)
+Marca: Mobil
+Precio unitario: 6.40
+Stock inicial: 60
+Stock mínimo: 10
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: MOT-101 - Aceite 10W40 (litro) (ID 4).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: MOT-120
+Nombre: Bujías (juego)
+Marca: NGK
+Precio unitario: 18.00
+Stock inicial: 30
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: MOT-120 - Bujías (juego) (ID 5).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: ELE-010
+Nombre: Batería 12V
+Marca: Willard
+Precio unitario: 85.00
+Stock inicial: 15
+Stock mínimo: 3
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: ELE-010 - Batería 12V (ID 6).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: ELE-025
+Nombre: Alternador
+Marca: Denso
+Precio unitario: 120.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: ELE-025 - Alternador (ID 7).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: SUS-200
+Nombre: Amortiguador delantero
+Marca: Monroe
+Precio unitario: 45.00
+Stock inicial: 20
+Stock mínimo: 4
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: SUS-200 - Amortiguador delantero (ID 8).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: SUS-210
+Nombre: Rótula de dirección
+Marca: TRW
+Precio unitario: 22.30
+Stock inicial: 25
+Stock mínimo: 4
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: SUS-210 - Rótula de dirección (ID 9).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: GEN-300
+Nombre: Correa de distribución
+Marca: Gates
+Precio unitario: 32.00
+Stock inicial: 25
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: GEN-300 - Correa de distribución (ID 10).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: GEN-310
+Nombre: Filtro de aire
+Marca: Fram
+Precio unitario: 9.90
+Stock inicial: 40
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: GEN-310 - Filtro de aire (ID 11).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: FRN-020
+Nombre: Disco de freno
+Marca: Brembo
+Precio unitario: 55.00
+Stock inicial: 6
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: FRN-020 - Disco de freno (ID 12).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 1
+Vehículo: AB123CD - Toyota Corolla (45000 km), propietario María González
+ID del mecánico: 1
+Mecánico: José Pérez (FRENOS)
+Kilometraje de ingreso: 45000
+Descripción de la falla: Ruido al frenar
+¿Abrir la orden? (S/N): S
+Orden #1 abierta para el vehículo AB123CD con el mecánico José Pérez.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 1
+ID del repuesto: 1
+Repuesto: FRN-001 - Pastillas delanteras (stock 40, precio 25)
+Cantidad: 2
+Se agregaron 2 unidad(es) de 'Pastillas delanteras' a la orden #1.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 1
+ID del repuesto: 2
+Repuesto: FRN-014 - Líquido de frenos DOT4 (stock 40, precio 12.5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Líquido de frenos DOT4' a la orden #1.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 1
+ID del repuesto: 3
+Repuesto: MOT-100 - Filtro de aceite (stock 40, precio 8.75)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aceite' a la orden #1.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 1
+ID del repuesto: 4
+Repuesto: MOT-101 - Aceite 10W40 (litro) (stock 60, precio 6.4)
+Cantidad: 4
+Se agregaron 4 unidad(es) de 'Aceite 10W40 (litro)' a la orden #1.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- CERRAR ORDEN (escriba CANCELAR para cancelar) ---
+ID de la orden: 1
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #1                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : AB123CD - Toyota Corolla 2015 (45000 km)                 ║
+║ Dueño     : María González                                           ║
+║ Mecánico  : José Pérez (FRENOS)                                      ║
+║ Falla     : Ruido al frenar                                          ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ FRN-001   ║ Pastillas delanteras         ║    2 ║     25.00 ║      50.00 ║
+║ FRN-014   ║ Líquido de frenos DOT4       ║    1 ║     12.50 ║      12.50 ║
+║ MOT-100   ║ Filtro de aceite             ║    1 ║      8.75 ║       8.75 ║
+║ MOT-101   ║ Aceite 10W40 (litro)         ║    4 ║      6.40 ║      25.60 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:        96.85        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:        96.85        ║
+╚══════════════════════════════════════════════════════════════════════╝
+Monto de mano de obra: 40
+¿Cerrar la orden? (S/N): S
+Orden #1 cerrada.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 2
+Vehículo: XY987ZW - Chevrolet Aveo (128300 km), propietario María González
+ID del mecánico: 1
+Mecánico: José Pérez (FRENOS)
+Kilometraje de ingreso: 128300
+Descripción de la falla: Cambio de filtro de aire
+¿Abrir la orden? (S/N): S
+Orden #2 abierta para el vehículo XY987ZW con el mecánico José Pérez.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 2
+ID del repuesto: 10
+Repuesto: GEN-300 - Correa de distribución (stock 25, precio 32)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Correa de distribución' a la orden #2.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 2
+ID del repuesto: 11
+Repuesto: GEN-310 - Filtro de aire (stock 40, precio 9.9)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aire' a la orden #2.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- CERRAR ORDEN (escriba CANCELAR para cancelar) ---
+ID de la orden: 2
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #2                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : XY987ZW - Chevrolet Aveo 2009 (128300 km)                ║
+║ Dueño     : María González                                           ║
+║ Mecánico  : José Pérez (FRENOS)                                      ║
+║ Falla     : Cambio de filtro de aire                                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ GEN-300   ║ Correa de distribución       ║    1 ║     32.00 ║      32.00 ║
+║ GEN-310   ║ Filtro de aire               ║    1 ║      9.90 ║       9.90 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:        41.90        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:        41.90        ║
+╚══════════════════════════════════════════════════════════════════════╝
+Monto de mano de obra: 25
+¿Cerrar la orden? (S/N): S
+Orden #2 cerrada.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 3
+Vehículo: JK456LM - Ford Fiesta (90000 km), propietario Pedro Ramírez
+ID del mecánico: 2
+Mecánico: Ana Villalobos (MOTOR)
+Kilometraje de ingreso: 90000
+Descripción de la falla: Falla de encendido
+¿Abrir la orden? (S/N): S
+Orden #3 abierta para el vehículo JK456LM con el mecánico Ana Villalobos.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 3
+ID del repuesto: 5
+Repuesto: MOT-120 - Bujías (juego) (stock 30, precio 18)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Bujías (juego)' a la orden #3.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 3
+ID del repuesto: 3
+Repuesto: MOT-100 - Filtro de aceite (stock 39, precio 8.75)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aceite' a la orden #3.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 3
+ID del repuesto: 4
+Repuesto: MOT-101 - Aceite 10W40 (litro) (stock 56, precio 6.4)
+Cantidad: 4
+Se agregaron 4 unidad(es) de 'Aceite 10W40 (litro)' a la orden #3.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 3
+ID del repuesto: 11
+Repuesto: GEN-310 - Filtro de aire (stock 39, precio 9.9)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aire' a la orden #3.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 3
+ID del repuesto: 9
+Repuesto: SUS-210 - Rótula de dirección (stock 25, precio 22.3)
+Cantidad: 2
+Se agregaron 2 unidad(es) de 'Rótula de dirección' a la orden #3.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- CERRAR ORDEN (escriba CANCELAR para cancelar) ---
+ID de la orden: 3
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #3                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : JK456LM - Ford Fiesta 2012 (90000 km)                    ║
+║ Dueño     : Pedro Ramírez                                            ║
+║ Mecánico  : Ana Villalobos (MOTOR)                                   ║
+║ Falla     : Falla de encendido                                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+║ MOT-100   ║ Filtro de aceite             ║    1 ║      8.75 ║       8.75 ║
+║ MOT-101   ║ Aceite 10W40 (litro)         ║    4 ║      6.40 ║      25.60 ║
+║ GEN-310   ║ Filtro de aire               ║    1 ║      9.90 ║       9.90 ║
+║ SUS-210   ║ Rótula de dirección          ║    2 ║     22.30 ║      44.60 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       106.85        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:       106.85        ║
+╚══════════════════════════════════════════════════════════════════════╝
+Monto de mano de obra: 60
+¿Cerrar la orden? (S/N): S
+Orden #3 cerrada.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 4
+Vehículo: MN789PQ - Honda Civic (60000 km), propietario Luisa Fernández
+ID del mecánico: 3
+Mecánico: Luis Fuenmayor (SUSPENSION)
+Kilometraje de ingreso: 60000
+Descripción de la falla: Vibración en el volante
+¿Abrir la orden? (S/N): S
+Orden #4 abierta para el vehículo MN789PQ con el mecánico Luis Fuenmayor.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 4
+ID del repuesto: 8
+Repuesto: SUS-200 - Amortiguador delantero (stock 20, precio 45)
+Cantidad: 2
+Se agregaron 2 unidad(es) de 'Amortiguador delantero' a la orden #4.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 4
+ID del repuesto: 9
+Repuesto: SUS-210 - Rótula de dirección (stock 23, precio 22.3)
+Cantidad: 2
+Se agregaron 2 unidad(es) de 'Rótula de dirección' a la orden #4.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- CERRAR ORDEN (escriba CANCELAR para cancelar) ---
+ID de la orden: 4
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #4                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : MN789PQ - Honda Civic 2018 (60000 km)                    ║
+║ Dueño     : Luisa Fernández                                          ║
+║ Mecánico  : Luis Fuenmayor (SUSPENSION)                              ║
+║ Falla     : Vibración en el volante                                  ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ SUS-200   ║ Amortiguador delantero       ║    2 ║     45.00 ║      90.00 ║
+║ SUS-210   ║ Rótula de dirección          ║    2 ║     22.30 ║      44.60 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       134.60        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:       134.60        ║
+╚══════════════════════════════════════════════════════════════════════╝
+Monto de mano de obra: 70
+¿Cerrar la orden? (S/N): S
+Orden #4 cerrada.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 1
+Vehículo: AB123CD - Toyota Corolla (45000 km), propietario María González
+ID del mecánico: 2
+Mecánico: Ana Villalobos (MOTOR)
+Kilometraje de ingreso: 46500
+Descripción de la falla: Mantenimiento de motor
+¿Abrir la orden? (S/N): S
+Orden #5 abierta para el vehículo AB123CD con el mecánico Ana Villalobos.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 5
+ID del repuesto: 3
+Repuesto: MOT-100 - Filtro de aceite (stock 38, precio 8.75)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aceite' a la orden #5.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- CERRAR ORDEN (escriba CANCELAR para cancelar) ---
+ID de la orden: 5
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #5                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : AB123CD - Toyota Corolla 2015 (46500 km)                 ║
+║ Dueño     : María González                                           ║
+║ Mecánico  : Ana Villalobos (MOTOR)                                   ║
+║ Falla     : Mantenimiento de motor                                   ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ MOT-100   ║ Filtro de aceite             ║    1 ║      8.75 ║       8.75 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:         8.75        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:         8.75        ║
+╚══════════════════════════════════════════════════════════════════════╝
+Monto de mano de obra: 15
+¿Cerrar la orden? (S/N): S
+Orden #5 cerrada.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 5
+Vehículo: RT321UV - Hyundai Accent (150000 km), propietario Carlos Mendoza
+ID del mecánico: 4
+Mecánico: Carlos Rojas (ELECTRICIDAD)
+Kilometraje de ingreso: 150000
+Descripción de la falla: No carga la batería
+¿Abrir la orden? (S/N): S
+Orden #6 abierta para el vehículo RT321UV con el mecánico Carlos Rojas.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 6
+ID del repuesto: 6
+Repuesto: ELE-010 - Batería 12V (stock 15, precio 85)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Batería 12V' a la orden #6.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 6
+ID del repuesto: 7
+Repuesto: ELE-025 - Alternador (stock 10, precio 120)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Alternador' a la orden #6.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 6
+ID del repuesto: 5
+Repuesto: MOT-120 - Bujías (juego) (stock 29, precio 18)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Bujías (juego)' a la orden #6.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- CERRAR ORDEN (escriba CANCELAR para cancelar) ---
+ID de la orden: 6
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #6                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : RT321UV - Hyundai Accent 2010 (150000 km)                ║
+║ Dueño     : Carlos Mendoza                                           ║
+║ Mecánico  : Carlos Rojas (ELECTRICIDAD)                              ║
+║ Falla     : No carga la batería                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ ELE-010   ║ Batería 12V                  ║    1 ║     85.00 ║      85.00 ║
+║ ELE-025   ║ Alternador                   ║    1 ║    120.00 ║     120.00 ║
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       223.00        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:       223.00        ║
+╚══════════════════════════════════════════════════════════════════════╝
+Monto de mano de obra: 30
+¿Cerrar la orden? (S/N): S
+Orden #6 cerrada.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 5
+
+--- ANULAR ORDEN ---
+ID de la orden: 6
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #6                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : CERRADA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Cierre    : 2026-11-09                                               ║
+║ Vehículo  : RT321UV - Hyundai Accent 2010 (150000 km)                ║
+║ Dueño     : Carlos Mendoza                                           ║
+║ Mecánico  : Carlos Rojas (ELECTRICIDAD)                              ║
+║ Falla     : No carga la batería                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ ELE-010   ║ Batería 12V                  ║    1 ║     85.00 ║      85.00 ║
+║ ELE-025   ║ Alternador                   ║    1 ║    120.00 ║     120.00 ║
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       223.00        ║
+║                                    Mano de obra:        30.00        ║
+║                                           TOTAL:       253.00        ║
+╚══════════════════════════════════════════════════════════════════════╝
+¿Anular la orden y devolver sus repuestos al inventario? (S/N): S
+Orden #6 anulada. Los repuestos volvieron al inventario.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 6
+Vehículo: GH654IJ - Kia Rio (30000 km), propietario Ana Torres
+ID del mecánico: 2
+Mecánico: Ana Villalobos (MOTOR)
+Kilometraje de ingreso: 30000
+Descripción de la falla: Revisión de frenos
+¿Abrir la orden? (S/N): S
+Orden #7 abierta para el vehículo GH654IJ con el mecánico Ana Villalobos.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 7
+ID del repuesto: 1
+Repuesto: FRN-001 - Pastillas delanteras (stock 38, precio 25)
+Cantidad: 2
+Se agregaron 2 unidad(es) de 'Pastillas delanteras' a la orden #7.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 7
+ID del repuesto: 2
+Repuesto: FRN-014 - Líquido de frenos DOT4 (stock 39, precio 12.5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Líquido de frenos DOT4' a la orden #7.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 5
+
+--- ANULAR ORDEN ---
+ID de la orden: 7
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #7                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : GH654IJ - Kia Rio 2016 (30000 km)                        ║
+║ Dueño     : Ana Torres                                               ║
+║ Mecánico  : Ana Villalobos (MOTOR)                                   ║
+║ Falla     : Revisión de frenos                                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ FRN-001   ║ Pastillas delanteras         ║    2 ║     25.00 ║      50.00 ║
+║ FRN-014   ║ Líquido de frenos DOT4       ║    1 ║     12.50 ║      12.50 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:        62.50        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:        62.50        ║
+╚══════════════════════════════════════════════════════════════════════╝
+¿Anular la orden y devolver sus repuestos al inventario? (S/N): S
+Orden #7 anulada. Los repuestos volvieron al inventario.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 2
+Vehículo: XY987ZW - Chevrolet Aveo (128300 km), propietario María González
+ID del mecánico: 4
+Mecánico: Carlos Rojas (ELECTRICIDAD)
+Kilometraje de ingreso: 130000
+Descripción de la falla: Luz de motor encendida
+¿Abrir la orden? (S/N): S
+Orden #8 abierta para el vehículo XY987ZW con el mecánico Carlos Rojas.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 8
+ID del repuesto: 12
+Repuesto: FRN-020 - Disco de freno (stock 6, precio 55)
+Cantidad: 2
+Se agregaron 2 unidad(es) de 'Disco de freno' a la orden #8.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 8
+ID del repuesto: 1
+Repuesto: FRN-001 - Pastillas delanteras (stock 38, precio 25)
+Cantidad: 2
+Se agregaron 2 unidad(es) de 'Pastillas delanteras' a la orden #8.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 8
+ID del repuesto: 3
+Repuesto: MOT-100 - Filtro de aceite (stock 37, precio 8.75)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aceite' a la orden #8.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 8
+ID del repuesto: 4
+Repuesto: MOT-101 - Aceite 10W40 (litro) (stock 52, precio 6.4)
+Cantidad: 3
+Se agregaron 3 unidad(es) de 'Aceite 10W40 (litro)' a la orden #8.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 7
+Vehículo: CD147EF - Mazda 3 (75000 km), propietario José Silva
+ID del mecánico: 4
+Mecánico: Carlos Rojas (ELECTRICIDAD)
+Kilometraje de ingreso: 75000
+Descripción de la falla: Golpeteo en la suspensión
+¿Abrir la orden? (S/N): S
+Orden #9 abierta para el vehículo CD147EF con el mecánico Carlos Rojas.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 9
+ID del repuesto: 8
+Repuesto: SUS-200 - Amortiguador delantero (stock 18, precio 45)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Amortiguador delantero' a la orden #9.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 9
+ID del repuesto: 9
+Repuesto: SUS-210 - Rótula de dirección (stock 21, precio 22.3)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Rótula de dirección' a la orden #9.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 8
+Vehículo: PL258QR - Nissan Sentra (12000 km), propietario Marta Díaz
+ID del mecánico: 2
+Mecánico: Ana Villalobos (MOTOR)
+Kilometraje de ingreso: 12000
+Descripción de la falla: Cambio de filtro de aire
+¿Abrir la orden? (S/N): S
+Orden #10 abierta para el vehículo PL258QR con el mecánico Ana Villalobos.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 10
+ID del repuesto: 11
+Repuesto: GEN-310 - Filtro de aire (stock 38, precio 9.9)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aire' a la orden #10.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+--- DAR DE BAJA MECÁNICO ---
+ID del mecánico: 3
+  Mecánico      : Luis Fuenmayor
+  Cédula        : V-12555666
+  Especialidad  : SUSPENSION
+  Fecha ingreso : 2018-09-20
+¿Dar de baja a este mecánico? (S/N): S
+Mecánico Luis Fuenmayor dado de baja (sus órdenes anteriores conservan su nombre).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

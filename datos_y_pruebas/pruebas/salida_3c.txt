@@ -1,0 +1,85 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 6
+
+--- DETALLE DE ORDEN ---
+ID de la orden: 11
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                        ORDEN DE SERVICIO #11                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : CERRADA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Cierre    : 2026-11-09                                               ║
+║ Vehículo  : JK456LM - Ford Fiesta 2012 (91000 km)                    ║
+║ Dueño     : Pedro Ramírez                                            ║
+║ Mecánico  : José Pérez (FRENOS)                                      ║
+║ Falla     : Fallas en el motor                                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ FRN-001   ║ Pastillas delanteras         ║    4 ║     25.00 ║     100.00 ║
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+║ ELE-010   ║ Batería 12V                  ║    1 ║     85.00 ║      85.00 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       203.00        ║
+║                                    Mano de obra:        50.00        ║
+║                                           TOTAL:       253.00        ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

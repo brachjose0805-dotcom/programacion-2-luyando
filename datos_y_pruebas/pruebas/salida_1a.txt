@@ -1,0 +1,304 @@
+=== PRIMER ARRANQUE: registre los datos del taller ===
+Nombre del taller: Autoservicio El Lago
+RIF: J-30123456-7
+Dirección: Av. 5 de Julio, Maracaibo
+Teléfono: 0261-7654321
+Taller registrado: Autoservicio El Lago
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): AB123CD
+Marca: Toyota
+Modelo: Corolla
+Año (1950-2027): 2015
+Kilometraje: 45000
+Nombre del propietario: María González
+Cédula del propietario (ej: V-12345678): V-12345678
+Teléfono del propietario: 0414-1234567
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: AB123CD - Toyota Corolla (ID 1).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): XY987ZW
+Marca: Chevrolet
+Modelo: Aveo
+Año (1950-2027): 2009
+Kilometraje: 128300
+Nombre del propietario: María González
+Cédula del propietario (ej: V-12345678): V-12345678
+Teléfono del propietario: 0414-1234567
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: XY987ZW - Chevrolet Aveo (ID 2).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR VEHÍCULO (escriba CANCELAR para cancelar) ---
+Placa (6 o 7 caracteres alfanuméricos): JK456LM
+Marca: Ford
+Modelo: Fiesta
+Año (1950-2027): 2012
+Kilometraje: 90000
+Nombre del propietario: Pedro Ramírez
+Cédula del propietario (ej: V-12345678): V-9876543
+Teléfono del propietario: 0412-5551234
+¿Guardar este vehículo? (S/N): S
+Vehículo registrado: JK456LM - Ford Fiesta (ID 3).
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE VEHÍCULOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar vehículo                    ║
+║   2. Buscar vehículo                       ║
+║   3. Actualizar vehículo                   ║
+║   4. Eliminar vehículo                     ║
+║   5. Listar vehículos                      ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR MECÁNICO (escriba CANCELAR para cancelar) ---
+Nombre completo: José Pérez
+Cédula (ej: V-12345678): V-14111222
+Especialidades: 1=MOTOR  2=FRENOS  3=ELECTRICIDAD  4=SUSPENSION  5=GENERAL  
+Especialidad (1-5): 2
+Fecha de ingreso (AAAA-MM-DD): 2019-02-11
+¿Guardar este mecánico? (S/N): S
+Mecánico registrado: José Pérez (FRENOS), ID 1.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR MECÁNICO (escriba CANCELAR para cancelar) ---
+Nombre completo: Ana Villalobos
+Cédula (ej: V-12345678): V-16333444
+Especialidades: 1=MOTOR  2=FRENOS  3=ELECTRICIDAD  4=SUSPENSION  5=GENERAL  
+Especialidad (1-5): 1
+Fecha de ingreso (AAAA-MM-DD): 2020-06-01
+¿Guardar este mecánico? (S/N): S
+Mecánico registrado: Ana Villalobos (MOTOR), ID 2.
+
+╔════════════════════════════════════════════╗
+║            GESTIÓN DE MECÁNICOS            ║
+╠════════════════════════════════════════════╣
+║   1. Registrar mecánico                    ║
+║   2. Buscar mecánico por ID                ║
+║   3. Listar mecánicos                      ║
+║   4. Dar de baja mecánico                  ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: FRN-001
+Nombre: Pastillas delanteras
+Marca: Bosch
+Precio unitario: 25.00
+Stock inicial: 40
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: FRN-001 - Pastillas delanteras (ID 1).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: FRN-014
+Nombre: Líquido de frenos DOT4
+Marca: Castrol
+Precio unitario: 12.50
+Stock inicial: 40
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: FRN-014 - Líquido de frenos DOT4 (ID 2).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: MOT-100
+Nombre: Filtro de aceite
+Marca: Fram
+Precio unitario: 8.75
+Stock inicial: 40
+Stock mínimo: 5
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: MOT-100 - Filtro de aceite (ID 3).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: MOT-101
+Nombre: Aceite 10W40 (litro)
+Marca: Mobil
+Precio unitario: 6.40
+Stock inicial: 60
+Stock mínimo: 10
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: MOT-101 - Aceite 10W40 (litro) (ID 4).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

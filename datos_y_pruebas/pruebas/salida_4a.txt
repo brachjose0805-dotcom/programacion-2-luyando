@@ -1,0 +1,554 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: GEN-400
+Nombre: Limpiaparabrisas
+Marca: Bosch
+Precio unitario: 7.50
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: GEN-400 - Limpiaparabrisas (ID 13).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: GEN-410
+Nombre: Bombillo faro
+Marca: Philips
+Precio unitario: 4.20
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: GEN-410 - Bombillo faro (ID 14).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: GEN-420
+Nombre: Manguera radiador
+Marca: Gates
+Precio unitario: 14.00
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: GEN-420 - Manguera radiador (ID 15).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REGISTRAR REPUESTO (escriba CANCELAR para cancelar) ---
+Código: GEN-430
+Nombre: Termostato
+Marca: Wahler
+Precio unitario: 11.80
+Stock inicial: 10
+Stock mínimo: 2
+¿Guardar este repuesto? (S/N): S
+Repuesto registrado: GEN-430 - Termostato (ID 16).
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- ABRIR ORDEN (escriba CANCELAR para cancelar) ---
+ID del vehículo: 4
+Vehículo: MN789PQ - Honda Civic (60000 km), propietario Luisa Fernández
+ID del mecánico: 1
+Mecánico: José Pérez (FRENOS)
+Kilometraje de ingreso: 61000
+Descripción de la falla: Revisión general antes de viaje
+¿Abrir la orden? (S/N): S
+Orden #11 abierta para el vehículo MN789PQ con el mecánico José Pérez.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 1
+Repuesto: FRN-001 - Pastillas delanteras (stock 36, precio 25)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Pastillas delanteras' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 2
+Repuesto: FRN-014 - Líquido de frenos DOT4 (stock 39, precio 12.5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Líquido de frenos DOT4' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 3
+Repuesto: MOT-100 - Filtro de aceite (stock 36, precio 8.75)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aceite' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 4
+Repuesto: MOT-101 - Aceite 10W40 (litro) (stock 49, precio 6.4)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Aceite 10W40 (litro)' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 5
+Repuesto: MOT-120 - Bujías (juego) (stock 29, precio 18)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Bujías (juego)' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 6
+Repuesto: ELE-010 - Batería 12V (stock 15, precio 85)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Batería 12V' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 7
+Repuesto: ELE-025 - Alternador (stock 10, precio 120)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Alternador' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 8
+Repuesto: SUS-200 - Amortiguador delantero (stock 17, precio 45)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Amortiguador delantero' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 9
+Repuesto: SUS-210 - Rótula de dirección (stock 20, precio 22.3)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Rótula de dirección' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 10
+Repuesto: GEN-300 - Correa de distribución (stock 24, precio 32)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Correa de distribución' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 11
+Repuesto: GEN-310 - Filtro de aire (stock 37, precio 9.9)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Filtro de aire' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 12
+Repuesto: FRN-020 - Disco de freno (stock 4, precio 55)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Disco de freno' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 13
+Repuesto: GEN-400 - Limpiaparabrisas (stock 10, precio 7.5)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Limpiaparabrisas' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 14
+Repuesto: GEN-410 - Bombillo faro (stock 10, precio 4.2)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Bombillo faro' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- AGREGAR REPUESTO A UNA ORDEN ---
+ID de la orden: 11
+ID del repuesto: 15
+Repuesto: GEN-420 - Manguera radiador (stock 10, precio 14)
+Cantidad: 1
+Se agregaron 1 unidad(es) de 'Manguera radiador' a la orden #11.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 6
+
+--- DETALLE DE ORDEN ---
+ID de la orden: 11
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                        ORDEN DE SERVICIO #11                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : ABIERTA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Vehículo  : MN789PQ - Honda Civic 2018 (61000 km)                    ║
+║ Dueño     : Luisa Fernández                                          ║
+║ Mecánico  : José Pérez (FRENOS)                                      ║
+║ Falla     : Revisión general antes de viaje                          ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ FRN-001   ║ Pastillas delanteras         ║    1 ║     25.00 ║      25.00 ║
+║ FRN-014   ║ Líquido de frenos DOT4       ║    1 ║     12.50 ║      12.50 ║
+║ MOT-100   ║ Filtro de aceite             ║    1 ║      8.75 ║       8.75 ║
+║ MOT-101   ║ Aceite 10W40 (litro)         ║    1 ║      6.40 ║       6.40 ║
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+║ ELE-010   ║ Batería 12V                  ║    1 ║     85.00 ║      85.00 ║
+║ ELE-025   ║ Alternador                   ║    1 ║    120.00 ║     120.00 ║
+║ SUS-200   ║ Amortiguador delantero       ║    1 ║     45.00 ║      45.00 ║
+║ SUS-210   ║ Rótula de dirección          ║    1 ║     22.30 ║      22.30 ║
+║ GEN-300   ║ Correa de distribución       ║    1 ║     32.00 ║      32.00 ║
+║ GEN-310   ║ Filtro de aire               ║    1 ║      9.90 ║       9.90 ║
+║ FRN-020   ║ Disco de freno               ║    1 ║     55.00 ║      55.00 ║
+║ GEN-400   ║ Limpiaparabrisas             ║    1 ║      7.50 ║       7.50 ║
+║ GEN-410   ║ Bombillo faro                ║    1 ║      4.20 ║       4.20 ║
+║ GEN-420   ║ Manguera radiador            ║    1 ║     14.00 ║      14.00 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       465.55        ║
+║                                    Mano de obra:         0.00        ║
+║                                           TOTAL:       465.55        ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

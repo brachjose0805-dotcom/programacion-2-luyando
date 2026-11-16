@@ -1,0 +1,63 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 6
+
+╔════════════════════════════════════════════╗
+║               MANTENIMIENTO                ║
+╠════════════════════════════════════════════╣
+║   1. Verificar integridad                  ║
+║   2. Crear respaldo (backup)               ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- VERIFICACIÓN DE INTEGRIDAD ---
+ROTO: Orden #11 apunta al vehiculo ID 9 (no existe en vehiculos.bin)
+
+╔════════════════════════════════════════════╗
+║     REPORTE DE INTEGRIDAD DEL SISTEMA      ║
+╠════════════════════════════════════════════╣
+║ Vehículos verificados : 8                  ║
+║ Mecánicos verificados : 4                  ║
+║ Repuestos verificados : 12                 ║
+║ Órdenes verificadas   : 11                 ║
+║                                            ║
+║ Problemas encontrados : 1                  ║
+║ Estado: SE ENCONTRARON PROBLEMAS           ║
+╚════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════╗
+║               MANTENIMIENTO                ║
+╠════════════════════════════════════════════╣
+║   1. Verificar integridad                  ║
+║   2. Crear respaldo (backup)               ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

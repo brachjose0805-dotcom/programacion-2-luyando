@@ -1,0 +1,248 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔══════╦════════════╦════════════════════════════╦════════════════╦═══════════╦════════╦═══════╦════════════╗
+║ ID   ║ Código     ║ Nombre                     ║ Marca          ║ Precio    ║ Stock  ║ Mín   ║ Alerta     ║
+╠══════╬════════════╬════════════════════════════╬════════════════╬═══════════╬════════╬═══════╬════════════╣
+║    1 ║ FRN-001    ║ Pastillas delanteras       ║ Bosch          ║     25.00 ║     36 ║     5 ║            ║
+║    2 ║ FRN-014    ║ Líquido de frenos DOT4     ║ Castrol        ║     12.50 ║     39 ║     5 ║            ║
+║    3 ║ MOT-100    ║ Filtro de aceite           ║ Fram           ║      8.75 ║     36 ║     5 ║            ║
+║    4 ║ MOT-101    ║ Aceite 10W40 (litro)       ║ Mobil          ║      6.40 ║     49 ║    10 ║            ║
+║    5 ║ MOT-120    ║ Bujías (juego)             ║ NGK            ║     18.00 ║     29 ║     5 ║            ║
+║    6 ║ ELE-010    ║ Batería 12V                ║ Willard        ║     85.00 ║     15 ║     3 ║            ║
+║    7 ║ ELE-025    ║ Alternador                 ║ Denso          ║    120.00 ║     10 ║     2 ║            ║
+║    8 ║ SUS-200    ║ Amortiguador delantero     ║ Monroe         ║     45.00 ║     17 ║     4 ║            ║
+║    9 ║ SUS-210    ║ Rótula de dirección        ║ TRW            ║     22.30 ║     20 ║     4 ║            ║
+║   10 ║ GEN-300    ║ Correa de distribución     ║ Gates          ║     32.00 ║     24 ║     5 ║            ║
+║   11 ║ GEN-310    ║ Filtro de aire             ║ Fram           ║      9.90 ║     37 ║     5 ║            ║
+║   12 ║ FRN-020    ║ Disco de freno             ║ Brembo         ║     55.00 ║      4 ║     5 ║ BAJO STOCK ║
+╚══════╩════════════╩════════════════════════════╩════════════════╩═══════════╩════════╩═══════╩════════════╝
+Total de repuestos: 12
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 6
+
+--- DETALLE DE ORDEN ---
+ID de la orden: 3
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #3                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : CERRADA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Cierre    : 2026-11-09                                               ║
+║ Vehículo  : JK456LM - Ford Fiesta 2012 (90000 km)                    ║
+║ Dueño     : Pedro Ramírez                                            ║
+║ Mecánico  : Ana Villalobos (MOTOR)                                   ║
+║ Falla     : Falla de encendido                                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+║ MOT-100   ║ Filtro de aceite             ║    1 ║      8.75 ║       8.75 ║
+║ MOT-101   ║ Aceite 10W40 (litro)         ║    4 ║      6.40 ║      25.60 ║
+║ GEN-310   ║ Filtro de aire               ║    1 ║      9.90 ║       9.90 ║
+║ SUS-210   ║ Rótula de dirección          ║    2 ║     22.30 ║      44.60 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       106.85        ║
+║                                    Mano de obra:        60.00        ║
+║                                           TOTAL:       166.85        ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 5
+
+--- ANULAR ORDEN ---
+ID de la orden: 3
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         ORDEN DE SERVICIO #3                         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║ Estado    : CERRADA                                                  ║
+║ Apertura  : 2026-11-09                                               ║
+║ Cierre    : 2026-11-09                                               ║
+║ Vehículo  : JK456LM - Ford Fiesta 2012 (90000 km)                    ║
+║ Dueño     : Pedro Ramírez                                            ║
+║ Mecánico  : Ana Villalobos (MOTOR)                                   ║
+║ Falla     : Falla de encendido                                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════╦══════════════════════════════╦══════╦═══════════╦════════════╗
+║ Código    ║ Repuesto                     ║ Cant ║ P.Unit    ║ Total      ║
+╠═══════════╬══════════════════════════════╬══════╬═══════════╬════════════╣
+║ MOT-120   ║ Bujías (juego)               ║    1 ║     18.00 ║      18.00 ║
+║ MOT-100   ║ Filtro de aceite             ║    1 ║      8.75 ║       8.75 ║
+║ MOT-101   ║ Aceite 10W40 (litro)         ║    4 ║      6.40 ║      25.60 ║
+║ GEN-310   ║ Filtro de aire               ║    1 ║      9.90 ║       9.90 ║
+║ SUS-210   ║ Rótula de dirección          ║    2 ║     22.30 ║      44.60 ║
+╚═══════════╩══════════════════════════════╩══════╩═══════════╩════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                       Repuestos:       106.85        ║
+║                                    Mano de obra:        60.00        ║
+║                                           TOTAL:       166.85        ║
+╚══════════════════════════════════════════════════════════════════════╝
+¿Anular la orden y devolver sus repuestos al inventario? (S/N): S
+Orden #3 anulada. Los repuestos volvieron al inventario.
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔══════╦════════════╦════════════════════════════╦════════════════╦═══════════╦════════╦═══════╦════════════╗
+║ ID   ║ Código     ║ Nombre                     ║ Marca          ║ Precio    ║ Stock  ║ Mín   ║ Alerta     ║
+╠══════╬════════════╬════════════════════════════╬════════════════╬═══════════╬════════╬═══════╬════════════╣
+║    1 ║ FRN-001    ║ Pastillas delanteras       ║ Bosch          ║     25.00 ║     36 ║     5 ║            ║
+║    2 ║ FRN-014    ║ Líquido de frenos DOT4     ║ Castrol        ║     12.50 ║     39 ║     5 ║            ║
+║    3 ║ MOT-100    ║ Filtro de aceite           ║ Fram           ║      8.75 ║     37 ║     5 ║            ║
+║    4 ║ MOT-101    ║ Aceite 10W40 (litro)       ║ Mobil          ║      6.40 ║     53 ║    10 ║            ║
+║    5 ║ MOT-120    ║ Bujías (juego)             ║ NGK            ║     18.00 ║     30 ║     5 ║            ║
+║    6 ║ ELE-010    ║ Batería 12V                ║ Willard        ║     85.00 ║     15 ║     3 ║            ║
+║    7 ║ ELE-025    ║ Alternador                 ║ Denso          ║    120.00 ║     10 ║     2 ║            ║
+║    8 ║ SUS-200    ║ Amortiguador delantero     ║ Monroe         ║     45.00 ║     17 ║     4 ║            ║
+║    9 ║ SUS-210    ║ Rótula de dirección        ║ TRW            ║     22.30 ║     22 ║     4 ║            ║
+║   10 ║ GEN-300    ║ Correa de distribución     ║ Gates          ║     32.00 ║     24 ║     5 ║            ║
+║   11 ║ GEN-310    ║ Filtro de aire             ║ Fram           ║      9.90 ║     38 ║     5 ║            ║
+║   12 ║ FRN-020    ║ Disco de freno             ║ Brembo         ║     55.00 ║      4 ║     5 ║ BAJO STOCK ║
+╚══════╩════════════╩════════════════════════════╩════════════════╩═══════════╩════════╩═══════╩════════════╝
+Total de repuestos: 12
+
+╔════════════════════════════════════════════╗
+║          INVENTARIO DE REPUESTOS           ║
+╠════════════════════════════════════════════╣
+║   1. Registrar repuesto                    ║
+║   2. Buscar repuesto                       ║
+║   3. Registrar entrada de mercancía        ║
+║   4. Listar repuestos                      ║
+║   5. Cambiar precio                        ║
+║   6. Eliminar repuesto                     ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.

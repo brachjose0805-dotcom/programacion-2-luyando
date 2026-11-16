@@ -1,0 +1,202 @@
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 5
+
+╔════════════════════════════════════════════╗
+║                  REPORTES                  ║
+╠════════════════════════════════════════════╣
+║   1. Historial de vehículo                 ║
+║   2. Repuestos más utilizados              ║
+║   3. Facturación por mecánico              ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REPORTE 1: HISTORIAL DE VEHÍCULO ---
+Placa: AB123CD
+
+HISTORIAL DEL VEHÍCULO
+  Vehículo    : AB123CD - Toyota Corolla 2015
+  Kilometraje : 46500 km
+  Propietario : María González (V-12345678)
+  Teléfono    : 0414-1234567
+
+╔════════╦════════════╦══════════════════════════╦══════════╦════════════╗
+║ Orden  ║ Fecha      ║ Mecánico                 ║ Estado   ║ Total      ║
+╠════════╬════════════╬══════════════════════════╬══════════╬════════════╣
+║     #1 ║ 2026-11-09 ║ José Pérez               ║ CERRADA  ║     136.85 ║
+║     #5 ║ 2026-11-09 ║ Ana Villalobos           ║ CERRADA  ║      23.75 ║
+╚════════╩════════════╩══════════════════════════╩══════════╩════════════╝
+Total facturado en órdenes CERRADAS: 160.6
+
+╔════════════════════════════════════════════╗
+║                  REPORTES                  ║
+╠════════════════════════════════════════════╣
+║   1. Historial de vehículo                 ║
+║   2. Repuestos más utilizados              ║
+║   3. Facturación por mecánico              ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 1
+
+--- REPORTE 1: HISTORIAL DE VEHÍCULO ---
+Placa: XY987ZW
+
+HISTORIAL DEL VEHÍCULO
+  Vehículo    : XY987ZW - Chevrolet Aveo 2009
+  Kilometraje : 130000 km
+  Propietario : María González (V-12345678)
+  Teléfono    : 0414-1234567
+
+╔════════╦════════════╦══════════════════════════╦══════════╦════════════╗
+║ Orden  ║ Fecha      ║ Mecánico                 ║ Estado   ║ Total      ║
+╠════════╬════════════╬══════════════════════════╬══════════╬════════════╣
+║     #2 ║ 2026-11-09 ║ José Pérez               ║ CERRADA  ║      66.90 ║
+║     #8 ║ 2026-11-09 ║ Carlos Rojas             ║ ABIERTA  ║     187.95 ║
+╚════════╩════════════╩══════════════════════════╩══════════╩════════════╝
+Total facturado en órdenes CERRADAS: 66.9
+
+╔════════════════════════════════════════════╗
+║                  REPORTES                  ║
+╠════════════════════════════════════════════╣
+║   1. Historial de vehículo                 ║
+║   2. Repuestos más utilizados              ║
+║   3. Facturación por mecánico              ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 2
+
+--- REPORTE 2: REPUESTOS MÁS UTILIZADOS (órdenes CERRADAS) ---
+
+╔═════╦════════════╦════════════════════════════════╦═══════════╗
+║ #   ║ Código     ║ Repuesto                       ║ Unidades  ║
+╠═════╬════════════╬════════════════════════════════╬═══════════╣
+║   1 ║ MOT-101    ║ Aceite 10W40 (litro)           ║         8 ║
+║   2 ║ SUS-210    ║ Rótula de dirección            ║         4 ║
+║   3 ║ MOT-100    ║ Filtro de aceite               ║         3 ║
+║   4 ║ FRN-001    ║ Pastillas delanteras           ║         2 ║
+║   5 ║ SUS-200    ║ Amortiguador delantero         ║         2 ║
+║   6 ║ GEN-310    ║ Filtro de aire                 ║         2 ║
+║   7 ║ FRN-014    ║ Líquido de frenos DOT4         ║         1 ║
+║   8 ║ MOT-120    ║ Bujías (juego)                 ║         1 ║
+║   9 ║ GEN-300    ║ Correa de distribución         ║         1 ║
+╚═════╩════════════╩════════════════════════════════╩═══════════╝
+
+╔════════════════════════════════════════════╗
+║                  REPORTES                  ║
+╠════════════════════════════════════════════╣
+║   1. Historial de vehículo                 ║
+║   2. Repuestos más utilizados              ║
+║   3. Facturación por mecánico              ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 3
+
+--- REPORTE 3: FACTURACIÓN POR MECÁNICO (órdenes CERRADAS) ---
+
+╔══════════════════════════════╦═════════╦════════════╦════════════╗
+║ Mecánico                     ║ Órdenes ║ M. obra    ║ Repuestos  ║
+╠══════════════════════════════╬═════════╬════════════╬════════════╣
+║ José Pérez                   ║       2 ║      65.00 ║     138.75 ║
+║ Ana Villalobos               ║       2 ║      75.00 ║     115.60 ║
+║ Luis Fuenmayor (BAJA)        ║       1 ║      70.00 ║     134.60 ║
+║ Carlos Rojas                 ║       0 ║       0.00 ║       0.00 ║
+╚══════════════════════════════╩═════════╩════════════╩════════════╝
+
+╔════════════════════════════════════════════╗
+║                  REPORTES                  ║
+╠════════════════════════════════════════════╣
+║   1. Historial de vehículo                 ║
+║   2. Repuestos más utilizados              ║
+║   3. Facturación por mecánico              ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 4
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 7
+
+Listar: 1. Todas   2. Por estado   3. Historial de un vehículo
+Opción: 1
+
+╔════════╦══════════╦════════════╦════════════════════════════╦══════════════════════════╦════════════╗
+║ Orden  ║ Estado   ║ Apertura   ║ Vehículo                   ║ Mecánico                 ║ Total      ║
+╠════════╬══════════╬════════════╬════════════════════════════╬══════════════════════════╬════════════╣
+║     #1 ║ CERRADA  ║ 2026-11-09 ║ AB123CD - Toyota Corolla   ║ José Pérez               ║     136.85 ║
+║     #2 ║ CERRADA  ║ 2026-11-09 ║ XY987ZW - Chevrolet Aveo   ║ José Pérez               ║      66.90 ║
+║     #3 ║ CERRADA  ║ 2026-11-09 ║ JK456LM - Ford Fiesta      ║ Ana Villalobos           ║     166.85 ║
+║     #4 ║ CERRADA  ║ 2026-11-09 ║ MN789PQ - Honda Civic      ║ Luis Fuenmayor (BAJA)    ║     204.60 ║
+║     #5 ║ CERRADA  ║ 2026-11-09 ║ AB123CD - Toyota Corolla   ║ Ana Villalobos           ║      23.75 ║
+║     #6 ║ ANULADA  ║ 2026-11-09 ║ RT321UV - Hyundai Accent   ║ Carlos Rojas             ║     253.00 ║
+║     #7 ║ ANULADA  ║ 2026-11-09 ║ GH654IJ - Kia Rio          ║ Ana Villalobos           ║      62.50 ║
+║     #8 ║ ABIERTA  ║ 2026-11-09 ║ XY987ZW - Chevrolet Aveo   ║ Carlos Rojas             ║     187.95 ║
+║     #9 ║ ABIERTA  ║ 2026-11-09 ║ CD147EF - Mazda 3          ║ Carlos Rojas             ║      67.30 ║
+║    #10 ║ ABIERTA  ║ 2026-11-09 ║ PL258QR - Nissan Sentra    ║ Ana Villalobos           ║       9.90 ║
+╚════════╩══════════╩════════════╩════════════════════════════╩══════════════════════════╩════════════╝
+Total de órdenes: 10
+
+╔════════════════════════════════════════════╗
+║            ÓRDENES DE SERVICIO             ║
+╠════════════════════════════════════════════╣
+║   1. Abrir orden                           ║
+║   2. Agregar repuesto a orden              ║
+║   3. Quitar repuesto de orden              ║
+║   4. Cerrar orden                          ║
+║   5. Anular orden                          ║
+║   6. Ver detalle de orden                  ║
+║   7. Listar órdenes                        ║
+║   0. Volver al menú principal              ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+
+╔════════════════════════════════════════════╗
+║        SISTEMA DE GESTIÓN DE TALLER        ║
+║        Taller: Autoservicio El Lago        ║
+╠════════════════════════════════════════════╣
+║   1. Gestión de Vehículos                  ║
+║   2. Gestión de Mecánicos                  ║
+║   3. Inventario de Repuestos               ║
+║   4. Órdenes de Servicio                   ║
+║   5. Reportes                              ║
+║   6. Mantenimiento                         ║
+║   0. Salir                                 ║
+╚════════════════════════════════════════════╝
+Seleccione una opción: 0
+¿Seguro que desea salir? (S/N): S
+Hasta pronto. Los datos quedaron guardados en la carpeta datos/.
